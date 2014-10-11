@@ -1,0 +1,6 @@
+#!/bin/sh
+
+/sbin/initctl stop apps/meesaver
+rm -f /etc/init/apps/meesaver.conf
+
+exit 0

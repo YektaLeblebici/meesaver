@@ -1,0 +1,9 @@
+#!/bin/sh
+
+chmod +x /opt/MeeSaver/bin/bin/addtoboot.sh
+chmod +x /opt/MeeSaver/bin/bin/removefromboot.sh
+chmod +x /opt/MeeSaver/bin/bin/kill.sh
+chmod +x /opt/MeeSaver/bin/bin/start.sh
+chmod +x /opt/MeeSaver/qml/meesaver/main.py
+
+exit 0

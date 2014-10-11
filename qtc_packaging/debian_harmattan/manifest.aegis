@@ -1,0 +1,10 @@
+<aegis>
+<request policy="set">
+<credential name="UID::root" />
+<credential name="GID::root" />
+<for path="/opt/MeeSaver/bin/bin/addtoboot.sh" />
+<for path="/opt/MeeSaver/bin/bin/removefromboot.sh" />
+<for path="/opt/MeeSaver/bin/bin/kill.sh" />
+<for path="/opt/MeeSaver/bin/bin/start.sh" />
+</request>
+</aegis>

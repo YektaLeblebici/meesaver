@@ -1,0 +1,23 @@
+meesaver (1.1.1) stable; urgency=low
+
+  * JPG support
+  * Removed unnecessary GUI script
+  * Fixed invoker bug, which prevented MeeSaver to pop-up instead of running multiple instances
+
+ -- Aranel Surion <aranel@aranelsurion.org>  Wed, 29 Feb 2012 19:14:18 +0200
+
+
+meesaver (1.1.0) stable; urgency=low
+
+  * Daemon - Error handling
+  * Start/stop daemon scripts
+  * Minor issues fixed
+  * Daemon will be stopped on prerm
+
+ -- Aranel Surion <aranel@aranelsurion.org>  Sun, 26 Feb 2012 13:00:02 +0200
+
+meesaver (1.0.0) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Aranel Surion <aranel@aranelsurion.org>  Sun, 15 Jan 2012 21:34:58 +0200

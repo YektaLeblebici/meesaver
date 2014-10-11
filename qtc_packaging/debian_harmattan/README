@@ -1,0 +1,10 @@
+The Debian Package meesaver
+----------------------------
+
+MeeSaver simply picks a random wallpaper from a given location and sets it as a wallpaper.
+
+Thanks to:
+ * merlin1991 on Freenode for his unbreakable patience, and for sharing his QML/Python knowledge with me :)
+ * itsnotabigtruck and jonni for teaching me how Aegis works, from scratch :)
+
+ -- Aranel Surion <aranel@aranelsurion.org>  Sun, 15 Jan 2012 21:34:58 +0200
